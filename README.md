@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroaki-Konno)
  [![My Skills](https://skillicons.dev/icons?i=py,git,c,java,ocaml,sqlite,html,css,js,md&perline=5)](https://skillicons.dev) -->
 
-雛鳥のごとくpythonが好きです、よろしくお願いします。
+最近はもっぱらC#を触っています。MVPパターンであったり綺麗な構造を意識しながらコード記述できるようになりたい。
+Python, Javaは1アプリ作る程度まで経験あり
